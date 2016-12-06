@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="submit_text">Search</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_no_news">No news found for your search</string>
+</resources>
